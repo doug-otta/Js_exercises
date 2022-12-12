@@ -15,8 +15,10 @@ The paste is composed by 3 archives
 - JavaScript = without this, the repo is doesn't make sense ;)
 
 ## EXERCISES
-- 01: HELLO WORLD : Input your name, click in the button and the message is: "Olá! Muito prazer em te conhecer (string inputed) "
-- 02: SUM: Input two numbers (n1 and n2), click in the button "Calcular". The message appear will be: "A soma entre (n1) e (n2) é (res = n1 + n2) 
+- 01: HELLO WORLD : Input your name, click in the button and the message is: "Olá! Muito prazer em te conhecer (string inputed) ";
+- 02: SUM: Input two numbers (n1 and n2), click in the button "Calcular". The message appear will be: "A soma entre (n1) e (n2) é (res = n1 + n2);
+- 03: TYPEOF: input anything the return will be the type of the input;
+- 04: PREDECESSOR AND SUCESSOR: input a number and the return will be predecessor and successor.
 
 ## OBSERVATION
 I'll commiting new exercises 3 or 4 days per week ;)
