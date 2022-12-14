@@ -19,7 +19,8 @@ The paste is composed by 3 archives
 - 02: SUM: Input two numbers (n1 and n2), click in the button "Calcular". The message appear will be: "A soma entre (n1) e (n2) é (res = n1 + n2);
 - 03: TYPEOF: input anything the return will be the type of the input;
 - 04: PREDECESSOR AND SUCESSOR: input a number and the return will be predecessor and successor;
-- 05: DOUBLE, TRIPLE AND SQUARE ROOT: input a number and click in button to show the number's double, triple and the square root. I made the button "limpar" to delete the `<div>`.
+- 05: DOUBLE, TRIPLE AND SQUARE ROOT: input a number and click in button to show the number's double, triple and the square root. I made the button "limpar" to delete the `<div>`;
+- 06: GPA: input the avarage at two months between 0 to 10, and click in the button to obtain the result.
 
 ## OBSERVATION
 I'll commiting new exercises 3 or 4 days per week ;)
