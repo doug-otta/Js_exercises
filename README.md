@@ -21,6 +21,7 @@ The paste is composed by 3 archives
 - 04: PREDECESSOR AND SUCESSOR: input a number and the return will be predecessor and successor;
 - 05: DOUBLE, TRIPLE AND SQUARE ROOT: input a number and click in button to show the number's double, triple and the square root. I made the button "limpar" to delete the `<div>`;
 - 06: GPA: input the avarage at two months between 0 to 10, and click in the button to obtain the result.
+- 07: MESUAREMENT CONVERTER: input a measure (m) and the output will be the input converted in km, hm, dam, dm, cm e mm.
 
 ## OBSERVATION
 I'll commiting new exercises 3 or 4 days per week ;)
