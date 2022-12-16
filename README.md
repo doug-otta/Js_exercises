@@ -20,8 +20,9 @@ The paste is composed by 3 archives
 - 03: TYPEOF: input anything the return will be the type of the input;
 - 04: PREDECESSOR AND SUCESSOR: input a number and the return will be predecessor and successor;
 - 05: DOUBLE, TRIPLE AND SQUARE ROOT: input a number and click in button to show the number's double, triple and the square root. I made the button "limpar" to delete the `<div>`;
-- 06: GPA: input the avarage at two months between 0 to 10, and click in the button to obtain the result.
-- 07: MESUAREMENT CONVERTER: input a measure (m) and the output will be the input converted in km, hm, dam, dm, cm e mm.
+- 06: GPA: input the avarage at two months between 0 to 10, and click in the button to obtain the result;
+- 07: MESUAREMENT CONVERTER: input a measure (m) and the output will be the input converted in km, hm, dam, dm, cm e mm;
+- 08: MULTIPLICATION TABLE: input any number and the output will be the multiplicators 1 to 10.
 
 ## OBSERVATION
 I'll commiting new exercises 3 or 4 days per week ;)
