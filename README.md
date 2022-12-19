@@ -22,7 +22,8 @@ The paste is composed by 3 archives
 - 05: DOUBLE, TRIPLE AND SQUARE ROOT: input a number and click in button to show the number's double, triple and the square root. I made the button "limpar" to delete the `<div>`;
 - 06: GPA: input the avarage at two months between 0 to 10, and click in the button to obtain the result;
 - 07: MESUAREMENT CONVERTER: input a measure (m) and the output will be the input converted in km, hm, dam, dm, cm e mm;
-- 08: MULTIPLICATION TABLE: input any number and the output will be the multiplicators 1 to 10.
+- 08: MULTIPLICATION TABLE: input any number and the output will be the multiplicators 1 to 10;
+- 09: CURRENCY CONVERTER: select the type of your currency, BRL or USD, and input the value. Clicking in the button "Calcular" the output will be the amount as you can buy at the exchange.
 
 ## OBSERVATION
 I'll commiting new exercises 3 or 4 days per week ;)
