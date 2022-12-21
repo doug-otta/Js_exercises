@@ -24,7 +24,8 @@ The paste is composed by 3 archives
 - 07: MESUAREMENT CONVERTER: input a measure (m) and the output will be the input converted in km, hm, dam, dm, cm e mm;
 - 08: MULTIPLICATION TABLE: input any number and the output will be the multiplicators 1 to 10;
 - 09: CURRENCY CONVERTER: select the type of your currency, BRL or USD, and input the value. Clicking in the button "Calcular" the output will be the amount as you can buy at the exchange;
-- 10: WALL PAINTING: Input the height and the width of the wall. The return is the area of the wall and quantity of the ink to be paint the wall.
+- 10: WALL PAINTING: Input the height and the width of the wall. The return is the area of the wall and quantity of the ink to be paint the wall;
+- 11: DISCOUNT CALCULATOR: Input two values, the discount and the final value of the cart, after press the button will be generate the the final value with the discount.
 
 ## OBSERVATION
 I'll commiting new exercises 3 or 4 days per week ;)
