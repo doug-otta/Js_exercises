@@ -1,0 +1,30 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ex011</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <header>
+        <h1>Cálculo de Descontos</h1>
+    </header>
+    <section>
+        <div>
+            <p>
+                Informe o valor do desconto:
+                <input type="number" name="sale" id="sale" min="0" max="100">%
+            </p>
+            <p>
+                Informe o valor total da compra
+                <input type="number" name="totalFinal" id="totalFinal">
+            </p>
+            <button id="calcular" onclick="calcular()">Calcular</button>
+        </div>
+        <div id="res"></div>
+    </section>
+    <footer></footer>
+    <script src="./script.js"></script>
+</body>
+</html>
