@@ -26,7 +26,8 @@ The paste is composed by 3 archives
 - 09: CURRENCY CONVERTER: select the type of your currency, BRL or USD, and input the value. Clicking in the button "Calcular" the output will be the amount as you can buy at the exchange;
 - 10: WALL PAINTING: Input the height and the width of the wall. The return is the area of the wall and quantity of the ink to be paint the wall;
 - 11: DISCOUNT CALCULATOR: Input two values, the discount and the final value of the cart, after press the button will be generate the the final value with the discount;
-- 12: SALARY ADJUSTMENT: Input the employer's name, and the salary received for him. After press the button the adjustment of the salary of the employer will be 15%.
+- 12: SALARY ADJUSTMENT: Input the employer's name, and the salary received for him. After press the button the adjustment of the salary of the employer will be 15%;
+- 13: TEMPERATURE CONVERTER: Select the type of your temperature and input the measure of the temperature, after you click at the button the temperature seted will be appear the converted temperature.
 
 ## OBSERVATION
 I'll commiting new exercises 3 or 4 days per week ;)
